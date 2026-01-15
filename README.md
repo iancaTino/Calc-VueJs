@@ -28,12 +28,11 @@ Esse projeto foi construído com:
 
 Confira a calculadora rodando no seu navegador:
 
-<div align="center">
-
-[![Abrir Calc-VueJs](https://img.shields.io/badge/Abrir%20Projeto-Rosa-brightpink?style=for-the-badge&logo=vue.js)](https://calc-vue-js-sigma.vercel.app/)
-
+<div align="center" style="background-color:#ffb6c1; padding:15px; border-radius:15px; display:inline-block;">
+  <a href="https://calc-vue-js-sigma.vercel.app/" target="_blank" style="text-decoration:none;">
+    <span style="color:white; font-weight:bold; font-size:16px;">
+      🚀 Abrir Calc-VueJs
+    </span>
+  </a>
 </div>
 
-
-```bash
-git clone https://github.com/iancaTino/Calc-VueJs.git
