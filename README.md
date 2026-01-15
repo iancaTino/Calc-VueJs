@@ -1,38 +1,41 @@
-# calc-vue
+# 🧮 Calc-VueJs 💗
 
-This template should help get you started developing with Vue 3 in Vite.
+Uma **calculadora aritmética interativa** feita com **Vue.js**, que calcula soma, subtração, multiplicação e divisão automaticamente à medida que você insere valores — sem botão de calcular! 🎀
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🌟 Visão geral
 
-## Recommended Browser Setup
+Esse projeto é um exemplo de como usar o Vue 3 com componentes reutilizáveis e reatividade para criar uma interface simples e intuitiva. Com ele você pode:
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Digitar dois números
+- Selecionar a operação desejada
+- Ver o resultado em tempo real
 
-## Customize configuration
+Feito com carinho pra treinar lógica, Vue, componentização e organização de estilos. 💪✨
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🛠️ Tecnologias usadas
 
-```sh
-npm install
-```
+Esse projeto foi construído com:
 
-### Compile and Hot-Reload for Development
+- 💜 **Vue 3 (Composition API)**
+- 📦 **Vite** como bundler
+- 🎨 **Bootstrap Icons**
+- 💅 **CSS customizado** para um visual rosa suave
 
-```sh
-npm run dev
-```
+---
 
-### Compile and Minify for Production
+## 🌐 Acesse o projeto online
 
-```sh
-npm run build
-```
+Confira a calculadora rodando no seu navegador:
+
+<div align="center">
+
+[![Abrir Calc-VueJs](https://img.shields.io/badge/Abrir%20Projeto-Rosa-brightpink?style=for-the-badge&logo=vue.js)](https://iancaTino.github.io/Calc-VueJs/)
+
+</div>
+
+```bash
+git clone https://github.com/iancaTino/Calc-VueJs.git
