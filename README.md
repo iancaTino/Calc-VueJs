@@ -30,8 +30,8 @@ Confira a calculadora rodando no seu navegador:
 
 <div align="center">
   <a href="https://calc-vue-js-sigma.vercel.app/" target="_blank" style="text-decoration:none;">
-    <div style="background-color:#ff69b4; padding:15px 25px; border-radius:20px; display:inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <span style="color:white; font-weight:bold; font-size:18px;">
+    <div style="background-color:#ffb6c1; padding:10px 20px; border-radius:15px; display:inline-block;">
+      <span style="color:white; font-weight:bold;">
         🚀 Abrir Calc-VueJs
       </span>
     </div>
