@@ -28,11 +28,13 @@ Esse projeto foi construído com:
 
 Confira a calculadora rodando no seu navegador:
 
-<div align="center" style="background-color:#ffb6c1; padding:15px; border-radius:15px; display:inline-block;">
+<div align="center">
   <a href="https://calc-vue-js-sigma.vercel.app/" target="_blank" style="text-decoration:none;">
-    <span style="color:white; font-weight:bold; font-size:16px;">
-      🚀 Abrir Calc-VueJs
-    </span>
+    <div style="background-color:#ff69b4; padding:15px 25px; border-radius:20px; display:inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <span style="color:white; font-weight:bold; font-size:18px;">
+        🚀 Abrir Calc-VueJs
+      </span>
+    </div>
   </a>
 </div>
 
