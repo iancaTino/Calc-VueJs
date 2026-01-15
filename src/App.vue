@@ -19,15 +19,15 @@ const resultado = computed(() => {
 
   switch (operacao.value) {
     case 'add':
-      return `Resultado: ${a + b}`;
+      return ` ${a + b}`;
     case 'subtract':
-      return `Resultado: ${a - b}`;
+      return ` ${a - b}`;
     case 'multiply':
-      return `Resultado: ${a * b}`;
+      return ` ${a * b}`;
     case 'divide':
       return b === 0
         ? 'Erro: Divisão por zero não é permitida.'
-        : `Resultado: ${a / b}`;
+        : ` ${a / b}`;
     default:
       return '';
   }
@@ -69,7 +69,7 @@ h1 {
   color: #c2185b;
 }
 
-h1 {
+h1  {
   color: #d63384;
   margin-right: 0.4rem;
 }
@@ -95,7 +95,7 @@ select:focus {
 
 p {
   margin-top: 1.5rem;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #c2185b;
   font-weight: bold;
 }
