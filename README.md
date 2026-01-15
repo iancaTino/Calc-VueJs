@@ -12,8 +12,6 @@ Esse projeto é um exemplo de como usar o Vue 3 com componentes reutilizáveis e
 - Selecionar a operação desejada
 - Ver o resultado em tempo real
 
-Feito com carinho pra treinar lógica, Vue, componentização e organização de estilos. 💪✨
-
 ---
 
 ## 🛠️ Tecnologias usadas
@@ -21,9 +19,8 @@ Feito com carinho pra treinar lógica, Vue, componentização e organização de
 Esse projeto foi construído com:
 
 - 💜 **Vue 3 (Composition API)**
-- 📦 **Vite** como bundler
 - 🎨 **Bootstrap Icons**
-- 💅 **CSS customizado** para um visual rosa suave
+- 💅 **CSS customizado** 
 
 ---
 
@@ -33,9 +30,10 @@ Confira a calculadora rodando no seu navegador:
 
 <div align="center">
 
-[![Abrir Calc-VueJs](https://img.shields.io/badge/Abrir%20Projeto-Rosa-brightpink?style=for-the-badge&logo=vue.js)](https://iancaTino.github.io/Calc-VueJs/)
+[![Abrir Calc-VueJs](https://img.shields.io/badge/Abrir%20Projeto-Rosa-brightpink?style=for-the-badge&logo=vue.js)](https://calc-vue-js-sigma.vercel.app/)
 
 </div>
+
 
 ```bash
 git clone https://github.com/iancaTino/Calc-VueJs.git
